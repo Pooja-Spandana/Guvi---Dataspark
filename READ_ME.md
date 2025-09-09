@@ -13,7 +13,7 @@
    - Merged all datasets into a single file and ensured data was ready for detailed queries and integration with visualization tools.
 
 2. **Visual Insights**
-   - Connected cleaned data to Power BI or Tableau.
+   - Connected cleaned data to Power BI.
    - Created interactive dashboards offering a comprehensive view of the data.
    - Enabled users to explore trends and patterns effectively.
   
